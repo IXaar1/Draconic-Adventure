@@ -1,0 +1,22 @@
+// For more info visit https://www.curseforge.com/minecraft/mc-mods/ftb-utilities/pages/ranks
+// To see the list of permission nodes, open all_permissions.html in browser or all_permissions_full_list.txt
+
+[player is default_player_rank]
+ftbutilities.claims.max_chunks: 10
+ftbutilities.chunkloader.max_chunks: 2
+ftbutilities.chat.name_format: "{name}:"
+ftbutilities.homes.cooldown: "50m"
+ftbutilities.rtp.cooldown: "500m"
+
+[lox extends player]
+ftbutilities.claims.max_chunks: 30
+ftbutilities.chunkloader.max_chunks: 10
+ftbutilities.chat.name_format: "&2{name}&r: [Streamer]"
+ftbutilities.homes.cooldown: "20m"
+ftbutilities.rtp.cooldown: "500m"
+
+[admin is default_op_rank]
+ftbutilities.claims.max_chunks: 300
+ftbutilities.chunkloader.max_chunks: 300
+ftbutilities.chat.name_format: "&2{name} &r[Admin]"
+ftbutilities.rtp.cooldown: "500m"

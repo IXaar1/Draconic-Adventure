@@ -1,0 +1,172 @@
+{
+	"foods": [
+		{
+			"name": "minecraft:golden_apple",
+			"meta": 0,
+			"hunger": 20,
+			"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:apple",
+				"meta": 0,
+				"hunger": 1,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:rotten_flesh",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "iceandfire:pixie_dust",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_hereford_steak",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_angus_steak",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_longhorn_steak",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_prime_steak",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_prime_bacon",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_large_black_bacon",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_old_spot_bacon",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_hampshire_bacon",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:potato",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:raw_duroc_bacon",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "survivalist:dough",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "foodfunk:rotten_food",
+				"meta": 0,
+				"hunger": 0,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:cooked_peacock",
+				"meta": 0,
+				"hunger": 2,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:cooked_prime_peacock",
+				"meta": 0,
+				"hunger": 2,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:bread",
+				"meta": 0,
+				"hunger": 4,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "survivalist:round_bread",
+				"meta": 0,
+				"hunger": 4,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:pumpkin_pie",
+				"meta": 0,
+				"hunger": 4,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:super_omelette",
+				"meta": 0,
+				"hunger": 4,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:bacon_omelette",
+				"meta": 0,
+				"hunger": 2,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "animania:cooked_prime_steak",
+				"meta": 0,
+				"hunger": 3,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "iceandfire:ambrosia",
+				"meta": 0,
+				"hunger": 3,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:beetroot_soup",
+				"meta": 0,
+				"hunger": 4,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:mushroom_stew",
+				"meta": 0,
+				"hunger": 3,
+				"saturationModifier": 0.5
+		},
+		{
+				"name": "minecraft:rabbit_stew",
+				"meta": 0,
+				"hunger": 10,
+				"saturationModifier": 0.5
+		}
+	]
+}

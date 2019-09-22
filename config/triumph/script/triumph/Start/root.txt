@@ -1,0 +1,18 @@
+
+setIcon(<minecraft:writable_book>)
+
+setTitle("Начало")
+setDescription("Начало приключений")
+setBackground("minecraft:textures/gui/advancements/backgrounds/beacon.png")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(-336,-137)
+
+//Adds a single location criteria. Since this has nothing specific set, it will be completed the instant the player is added to the world, thus unlocking the page instantly.
+addCriteria("location", "minecraft:location")

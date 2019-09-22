@@ -1,0 +1,8 @@
+{
+    "entities.wolf.howl": {
+        "sounds": [
+            { "name": "howlitdo:howl1" },
+			{ "name": "howlitdo:howl2" }
+        ]
+    }
+}

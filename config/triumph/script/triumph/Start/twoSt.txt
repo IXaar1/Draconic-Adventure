@@ -1,0 +1,9 @@
+setIcon(<minecraft:writable_book>)
+setTitle("Первый шаг")
+setDescription("Нажми клавишу 'B' чтоб открыть книгу квестов и выполните ветку обучения вов кладке 'НАЧАЛО'")
+
+addParent("triumph:start/root")
+
+setPos(-231,-141)
+
+criteria = addCriteria("twoSt", "minecraft:impossible")
